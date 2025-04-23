@@ -38,7 +38,8 @@ while cap.isOpened():
      # Display the frame
     #cv2.imshow('Frame', frame)
 
-    # Break the loop when '.q' key is pressed
+    # Break the loop when '.q' key is pressed heee
+
     # if cv2.waitKey(1) & 0xFF == ord('q'):
     #     break
 
